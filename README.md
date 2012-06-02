@@ -92,4 +92,30 @@ While these glyphs do not:
     
 
 
+Now imagine just the procedure of putting the glyph inside a circle:
 
+( C )
+
+But what other transformations could we have?
+
+You could rotate through an arbitrary angle, but if you stick to 90 degree angles, then the both X and x are self-inverse.
+
+    X  x
+
+Some of these letters are inverses of each other under up-down reflection:
+
+    M m
+    W w
+
+
+Y is not on the list of scale-invariant things, but perhaps it should be. On the other hand, it is the up-down reflection of the lambda.
+
+    Y  y 
+
+
+
+# So what?
+
+Ok, so we have some properties about some letters. How is this useful?
+
+... (fill in as you guys read this crap)
