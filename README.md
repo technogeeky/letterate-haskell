@@ -6,14 +6,15 @@ Consder the list homomoprhism of the alphabet to itself, under the transformatio
 
 In other words, compare the properties of letters on the screen:
 
-#A      a
-#B      b
-#C      c
-#D      d
-#E      e
-#F      f
-#G      g
-#H      h
+
+    #A ----      a
+    #B      b
+    #C      c
+    #D      d
+    #E      e
+    #F      f
+    #G      g
+    #H      h
 #I      i
 #J      j
 #K      k
